@@ -1,4 +1,5 @@
 # IA
+![Descripción de la imagen](https://i0.wp.com/litci.org/es/wp-content/uploads/2023/07/Imagen-humanoide-de-robots-con-tablet-para-estudiar-ciencias-la-ingenieria-robot-ciencia-usando-inteligencia-artificial-del-cerebro-209947668.webp)
 - ¿ Que es la inteligencia Artificial?
 - La Inteligencia Artificial (IA) es una rama de la informática dedicada a crear sistemas que pueden realizar tareas que normalmente requieren inteligencia humana, Estas tareas incluyen el procesamiento de lenguaje natural, el reconocimiento de patrones, la toma de decisiones y el aprendizaje. Se basa en algoritmos y modelos matemáticos para que las máquinas imiten habilidades cognitivas humanas.
 - ### TIPOS DE INTELIGENCIA ARTIFICIAL
@@ -16,6 +17,7 @@
  - Características: Podría potencialmente resolver problemas complejos de manera más efectiva que cualquier ser humano y llevar la IA a niveles que aún no hemos alcanzado.
 
  ## ML (Machine Learning)
+![Descripción de la imagen](https://atriainnovation.com/uploads/2023/11/portada-9.jpg)
  - Machine Learning es un método para que las máquinas adquieran conocimiento a partir de datos, identificando patrones y tomando decisiones basadas en esos patrones. En lugar de seguir con una serie de instrucciones predefinidas tiene un sistema de aprendizaje automático donde utiliza datos para construir modelos que puedan hacer predicciones o tomar decisiones por sí mismos.
  ### TIPOS DE MACHINE LEARNING:
 ## Aprendizaje Supervisado:
